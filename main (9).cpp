@@ -1,5 +1,7 @@
 // polymorphism (compile time)
 // compile time-> function overloading(number of func. with same name but perform differently acc. to the arguments passed)(args. paased can be differnt type or number of args)
+// function name is same--> add and arguments passed are different.
+// now here sum is a userdefined datatype
 #include <iostream>
 
 using namespace std;
